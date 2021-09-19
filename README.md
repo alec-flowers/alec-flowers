@@ -12,8 +12,8 @@ Other interest of mine include:
 - Starting my music journey with the Piano in January of 2021 after having not touched an instrument since the recorder in 4th grade. 
 - Reading mostly biographies and non-fiction while re-reading my favorites such as Harry Potter and Eragon in French. Check out my [goodreads](https://www.goodreads.com/user/show/75670726-alec-flowers) for what I'm reading now. 
 
-Check 
-![](https://img.shields.io/github/followers/alec-flowers?style=social)
+For more about me:
+[![Linkedin: alec-flowers](https://img.shields.io/badge/alec-flowers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alec-flowers/)](https://www.linkedin.com/in/alec-flowers/)
 
 <!--
 **alec-flowers/alec-flowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
