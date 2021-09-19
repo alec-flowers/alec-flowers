@@ -3,8 +3,8 @@
 I am a Masters Student in Data Science at EPFL in Switzerland. 
 
 I'm currently working on:
-- App Development in Kotlin
-- Web Development  ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+- App Development ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
+- Web Development  ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
 - Machine learning  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 Other interest of mine include:
