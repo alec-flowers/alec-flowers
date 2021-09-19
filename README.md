@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :cherry_blossom:
 
 I am a Masters Student in Data Science at EPFL in Switzerland. I am excited about machine learning, health technologies, and learning new things. 
 
