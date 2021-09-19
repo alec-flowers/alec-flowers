@@ -10,7 +10,7 @@ I'm currently working on:
 Other interest of mine include:
 - Learning French & German. 
 - Starting my music journey with the Piano in January of 2021 after having not touched an instrument since the recorder in 4th grade. 
-- Reading mostly biographies and non-fiction while re-reading my favorites such as Harry Potter and Eragon in French. Check out my [goodreads](https://www.goodreads.com/user/show/75670726-alec-flowers) for what I'm reading now. 
+- Reading mostly biographies and non-fiction while re-reading my fiction favorites such as Harry Potter and Eragon in French. Check out my [goodreads](https://www.goodreads.com/user/show/75670726-alec-flowers) for what I'm reading now. 
 
 For more about me: 
 
