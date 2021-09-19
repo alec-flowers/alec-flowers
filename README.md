@@ -13,7 +13,7 @@ Other interest of mine include:
 - Reading books. You can check out my goodreads for what I am currently immersed in.
 
 Follow me on:
-https://img.shields.io/github/followers/alec-flowers?style=social
+![](https://img.shields.io/github/followers/alec-flowers?style=social)
 
 <!--
 **alec-flowers/alec-flowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
