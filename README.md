@@ -12,6 +12,9 @@ Other interest of mine include:
 - Learning the Piano. I started my music journey in January of 2021 after having not touched an instrument since the recorder in 4th grade. 
 - Reading books. You can check out my goodreads for what I am currently immersed in.
 
+Follow me on:
+https://img.shields.io/github/followers/alec-flowers?style=social
+
 <!--
 **alec-flowers/alec-flowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
