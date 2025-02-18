@@ -1,7 +1,12 @@
-### Hi there
+Deep Learning Algorithms at NVIDIA
 
+Working on distributed inference.
+
+<!--
+### Hi there
+ 
 I am a Masters Student in Data Science at EPFL in Switzerland. I am excited about machine learning, health technologies, and learning new things. 
-<!-- 
+
 I'm currently working on:
 - Courses & research in ML & Data Science ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 - Taking an android app development course ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
